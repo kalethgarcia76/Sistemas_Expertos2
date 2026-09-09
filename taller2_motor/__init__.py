@@ -1,5 +1,5 @@
 from .regla import Regla
-from .motor_forward_chaining import MotorInferencia, ResultadoInferencia
+from .motor import MotorInferencia, ResultadoInferencia
 from .base_reglas_fraude import REGLAS_FRAUDE, construir_hechos
 from .base_reglas_motocicleta import REGLAS_MOTOCICLETA, HECHOS_INICIALES_MOTOCICLETA
 
