@@ -1,4 +1,4 @@
-from motor_experto import (
+from taller2_motor import (
     MotorInferencia,
     REGLAS_FRAUDE,
     construir_hechos,
