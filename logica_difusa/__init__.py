@@ -1,5 +1,5 @@
 from .membresia import membresia_triangular, ConjuntoDifuso
-from .base_conjuntos_experiencia import CONJUNTOS_EXPERIENCIA
+from .base_conjunto_experiencia import CONJUNTOS_EXPERIENCIA
 from .clasificador import evaluar_experiencia, evaluar_conductores, ResultadoFuzzificacion
 
 __all__ = [
