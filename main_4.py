@@ -1,4 +1,4 @@
-
+"toca instalar este comando para correr el programa    pip install numpy --break-system-packages"
 from defuzzificacion import (
     validar_contra_taller_analitico,
     X_TALLER,
